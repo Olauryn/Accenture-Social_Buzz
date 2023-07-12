@@ -1,5 +1,7 @@
 # Accenture-Social_Buzz
 
+![download (3)](https://github.com/Olauryn/Accenture-Social_Buzz/assets/118401566/6e3391e1-c696-433d-a4a4-f3a27aba8bf3)
+
 ## CLIENT'S BACKGROUND
 Social Buzz was founded by two former engineers from a large social media conglomerate, one from London and the other from San Francisco. They left in 2008 and both met in 
 San Francisco to start their business. They started Social Buzz because they saw an opportunity to build on the foundation that their previous company started by creating a new platform where content took center stage. Social Buzz emphasizes content by keeping all users anonymous,
