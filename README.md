@@ -32,11 +32,14 @@ Microsoft Excel, Power BI, SQL
 ## DATA EXPLORATION
 7 datasets were given, **Profile, location, User, Reaction, ReactionType, Content, Sessions**, but for the question we want to answer, I used 3 datasets, **Reaction, Content, ReactionTypes** datasets. 
 
-The ReactionType dataset contained three columns and a total of 16 rows. No data cleaning was carried out as the dataset was ready for use.
+The ReactionType dataset contained three columns **Type,	Sentiment and	Score**, and a total of 16 rows. No data cleaning was carried out as the dataset was ready for use.
 
-The Reaction dataset contained three columns and a total of 2553 rows, no data cleaning was done as it was ready for use. No duplicates and blank values. 
+The Reaction dataset contained 4 colummns **Content ID,	User ID,	Type and	Datetime** and a total of 2553 rows, The User ID was removed as the informaton was not needed. 
 
-The content dataset  contained
+The content dataset  contained 5 columns, **ContentID, User ID,	Type,	Category and	URL**. Carrying out data cleaning process, the URL, ContentID and UserID columns were removed as they contained information not relevant for the analysis, empty rows were also removed from the dataset. 
+
+Data joining was perfomed using SQL.
+
 
 
 ## DATA VISUALIZATION AND INSIGHTS
