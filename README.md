@@ -34,9 +34,9 @@ Microsoft Excel, Power BI, SQL
 
 The ReactionType dataset contained three columns **Type,	Sentiment and	Score**, and a total of 16 rows. No data cleaning was carried out as the dataset was ready for use.
 
-The Reaction dataset contained 4 colummns **Content ID,	User ID,	Type and	Datetime** and a total of 25553 rows, blank rows were removed from the datasets leaving us with a total of 24574 rows
+The Reaction dataset contained 4 colummns **Content ID,	User ID,	Type and	Datetime** and a total of 25553 rows, blank rows were removed from the datasets leaving us with a total of 24574 rows. The User ID column was also removed.
 
-The content dataset  contained 5 columns, **ContentID, User ID,	Type,	Category and	URL**. Carrying out data cleaning process, the URL, column was removed as it contained information not relevant for the analysis. On the Category column, some values contained quotaion marks and this was rectified by removing the quotation marks from them to match the actual values of what we need. The Type column was renamed to ContentType. 
+The content dataset  contained 5 columns, **ContentID, User ID,	Type,	Category and	URL**. Carrying out data cleaning process, the URL and User ID column were removed as they contained information not relevant for the analysis. On the Category column, some values contained quotaion marks and this was rectified by removing the quotation marks from them to match the actual values of what we need. The Type column was renamed to ContentType. 
 
 Data cleaning and joining was perfomed using Excel and SQL.
 
