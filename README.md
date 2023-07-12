@@ -22,6 +22,6 @@ their business, they have a massive amount of data so they are keen on
 understanding how the world's biggest companies manage the challenges of big
 data. 
 
-They are expecting an analysis of their content categories that highlights the top 5 categories with the
+They are expecting an analysis of their **content categories** that highlights the **top 5 categories** with the
 largest aggregate popularity.
 
