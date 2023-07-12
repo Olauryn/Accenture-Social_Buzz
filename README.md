@@ -31,3 +31,24 @@ Microsoft Excel, Power BI, SQL
 
 ## DATA VISUALIZATION AND INSIGHTS
 
+<img width="685" alt="Screenshot 2023-07-12 160930" src="https://github.com/Olauryn/Accenture-Social_Buzz/assets/118401566/8d7d9944-3a61-4278-ad7d-26c81f6bac8b">
+
+From the data we found out that there were a total of 16 unique categories of posts
+across the sample dataset. This includes things such as Food, Science and
+Animals.
+As well as this, there were 1897 reactions from just the animal category alone!
+indicating people obviously really like animals!
+And also the most common month for users to post within was May, followed by January which could be somewhat tied as a result of seasonal trends of social media users that feel the need toreconnect with people after calendar events such as Christmas.
+
+To answer the question that show the top 5 categories, the analysis shows that the top 5 most popular categories of posts
+were animals, science, healthy eating, technology and food in descending
+order.
+Animals had an aggregate popularity score of around 73724. And it was very
+interesting to see both food and healthy eating within the top 5, it really shows
+that food is a highly engaging content category, but with **Healthy eating** ranking slightly
+higher than food, so perhaps users base may be skewed towards healthy
+eaters and health-conscious people or users are getting intrested in Healthy Eating as a results of several researches that shows the great importance of healthy Eating.
+Finally, its also interesting to see science and technology too. This may suggest
+that people enjoy consuming factual content and snippets of content that they
+can learn something from.
+
