@@ -30,7 +30,13 @@ largest aggregate popularity.
 Microsoft Excel, Power BI, SQL
 
 ## DATA EXPLORATION
+7 datasets were given, **Profile, location, User, Reaction, ReactionType, Content, Sessions**, but for the question we want to answer, I used 3 datasets, **Reaction, Content, ReactionTypes** datasets. 
 
+The ReactionType dataset contained three columns and a total of 16 rows. No data cleaning was carried out as the dataset was ready for use.
+
+The Reaction dataset contained three columns and a total of 2553 rows, no data cleaning was done as it was ready for use. No duplicates and blank values. 
+
+The content dataset  contained
 
 
 ## DATA VISUALIZATION AND INSIGHTS
