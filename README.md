@@ -30,6 +30,7 @@ largest aggregate popularity.
 Microsoft Excel, Power BI, SQL
 
 ## DATA MODEL
+<img width="568" alt="Screenshot 2023-07-12 121705" src="https://github.com/Olauryn/Accenture-Social_Buzz/assets/118401566/49b9e724-4cab-48ef-b715-b216af74730e">
 
 
 ## DATA EXPLORATION
