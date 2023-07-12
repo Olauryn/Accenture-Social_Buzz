@@ -25,3 +25,9 @@ data.
 They are expecting an analysis of their **content categories** that highlights the **top 5 categories** with the
 largest aggregate popularity.
 
+## TOOLS USED FOR ANALYSIS
+
+Microsoft Excel, Power BI, SQL
+
+## DATA VISUALIZATION AND INSIGHTS
+
