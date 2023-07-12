@@ -16,3 +16,12 @@ from text, images, videos and GIFs are posted. All of this data is highly unstru
 requires extremely sophisticated and expensive technology to manage and maintain. Out of the
 250 people working at Social Buzz, 200 of them are technical staff working on maintaining this
 highly complex technology. 
+
+They want to learn data best practices from a large corporation. Due to the nature of
+their business, they have a massive amount of data so they are keen on
+understanding how the world's biggest companies manage the challenges of big
+data. 
+
+They are expecting an analysis of their content categories that highlights the top 5 categories with the
+largest aggregate popularity.
+
