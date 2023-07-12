@@ -29,6 +29,9 @@ largest aggregate popularity.
 
 Microsoft Excel, Power BI, SQL
 
+## DATA MODEL
+
+
 ## DATA EXPLORATION
 7 datasets were given, **Profile, location, User, Reaction, ReactionType, Content, Sessions**, but for the question we want to answer, I used 3 datasets, **Reaction, Content, ReactionTypes** datasets. 
 
