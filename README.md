@@ -40,14 +40,14 @@ As well as this, there were 1897 reactions from just the animal category alone!
 indicating people obviously really like animals!
 And also the most common month for users to post within was May, followed by January which could be somewhat tied as a result of seasonal trends of social media users that feel the need toreconnect with people after calendar events such as Christmas.
 
-To answer the question that show the top 5 categories, the analysis shows that the top 5 most popular categories of posts
-were animals, science, healthy eating, technology and food in descending
+To answer the question that show the **top 5 categories**, the analysis shows that the top 5 most popular categories of posts
+were **animals, science, healthy eating, food and technology** in descending
 order.
-Animals had an aggregate popularity score of around 73724. And it was very
+Animals had an aggregate popularity score of around **73724**. And it was very
 interesting to see both food and healthy eating within the top 5, it really shows
 that food is a highly engaging content category, but with **Healthy eating** ranking slightly
 higher than food, so perhaps users base may be skewed towards healthy
-eaters and health-conscious people or users are getting intrested in Healthy Eating as a results of several researches that shows the great importance of healthy Eating.
+eaters and health-conscious people or users are getting intrested in Healthy Eating as a results of several researches that shows the great importance of healthy Eating, and this insight can be used to boost engagement even further. For example, you could run a campaign with content focused on this category or work with healthy eating brands to promote content.
 Finally, its also interesting to see science and technology too. This may suggest
 that people enjoy consuming factual content and snippets of content that they
 can learn something from.
