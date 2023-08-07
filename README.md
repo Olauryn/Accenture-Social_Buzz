@@ -1,4 +1,3 @@
-
 # Accenture-Social_Buzz
 
 ![download (3)](https://github.com/Olauryn/Accenture-Social_Buzz/assets/118401566/6e3391e1-c696-433d-a4a4-f3a27aba8bf3)
