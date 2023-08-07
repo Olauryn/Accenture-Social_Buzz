@@ -1,4 +1,3 @@
-# Accenture-Social_Buzz
 
 # Accenture-Social_Buzz
 
